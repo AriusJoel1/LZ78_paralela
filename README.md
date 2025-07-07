@@ -1,4 +1,4 @@
-# Proyecto — Comparación de Algoritmos de Compresión Multilingüe
+# Proyecto: Comparación de Algoritmos de Compresión Multilingüe
 
 Este repositorio compara la eficiencia (tiempo y ratio de compresión) de cuatro algoritmos sin pérdida sobre textos en **Quechua, Español, Inglés, Portugués y Ruso**.
 
