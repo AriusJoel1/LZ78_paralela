@@ -6,8 +6,8 @@ Este repositorio compara la eficiencia (tiempo y ratio de compresión) de cuatro
 | ------------- | ------------------------------- | ------------------ | -------------------- | ---------------------------------------------------------- |
 | **LZ78_PAR**  | `compresores/lz78_parallel.py`  | Python             | Sí (multiprocessing) | Diccionario independiente por fragmento, sobrecarga alta.  |
 | **LZW**       | `compresores/lzw.py`            | Python             | No                   | Basado en diccionario secuencial.                          |
-| **Gzip**      | `gzip` (módulo estándar)        | Binding C (`zlib`) | No                   | LZ77 + Huffman (DEFLATE).                                  |
-| **Brotli**    | `brotli` (`pip install brotli`) | Binding C++        | No                   | LZ77 + contextos + Huffman, diccionario global optimizado. |
+| **Gzip**      | `gzip`                          | Binding C          | No                   | LZ77 + Huffman (DEFLATE).                                  |
+| **Brotli**    | `brotli`                        | Binding C++        | No                   | LZ77 + contextos + Huffman, diccionario global optimizado. |
 
 
 ## 1. Instalación 
