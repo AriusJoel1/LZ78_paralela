@@ -36,6 +36,7 @@ python comparador.py
 En el idioma español se incluyó una gran cantidad de texto (más de 20 millones de caracteres) para resaltar con mayor claridad las diferencias entre algoritmos de compresión.
 Los demas idiomas si tuvieron una cantidad normal de texto.
 
+![Resultados](https://github.com/AriusJoel1/LZ78_paralela/blob/main/img/paralela.jpg?raw=true)
 
 ### Interpretación
 
